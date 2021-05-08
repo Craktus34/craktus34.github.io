@@ -22,8 +22,8 @@ body {
 
 main {
     display: inline-block;
-    min-height: 250px;
-    min-width: 500px;
+    min-height: 220px;
+    min-width: 420px;
     font-size: 12px;
     border-width: 2px;
     border-style: solid;
