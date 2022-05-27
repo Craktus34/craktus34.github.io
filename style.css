@@ -25,9 +25,11 @@ main {
     min-height: 220px;
     min-width: 420px;
     font-size: 12px;
+    top: 50%;
+    right: 20%;
     border-width: 2px;
     border-style: solid;
-    margin: 10vh 0 0 0;
+    margin: 30vh 50vw 0 0;
     color: #ffffff;
     border-color: #8e8e8e;
     background-color: rgba(35, 35, 35, 0.5);
