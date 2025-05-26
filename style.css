@@ -5,6 +5,8 @@ html {
 }
 
 body {
+    position: absolute;
+    height: 100%;
     background-color: #232323;
     background-image: url(img/frac.jpg);
     background-repeat: no-repeat; 
@@ -17,7 +19,7 @@ body {
 }
 
 main {
-    margin-top: 150px;
+    margin-top: 18%;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
