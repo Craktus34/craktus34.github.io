@@ -19,7 +19,7 @@ body {
 
 main {
     display: flow;
-    margin-top: auto;
+    margin-top: 10%;
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
@@ -106,3 +106,4 @@ a:hover {
     border-bottom: solid 1px;
     border-color: #ffffff;
 }
+
